@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiders", "apiders\apiders.csproj", "{4DB612EC-72E9-4E23-ACCE-A5015E4C412C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB612EC-72E9-4E23-ACCE-A5015E4C412C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB612EC-72E9-4E23-ACCE-A5015E4C412C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB612EC-72E9-4E23-ACCE-A5015E4C412C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB612EC-72E9-4E23-ACCE-A5015E4C412C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA73EAD-064B-4D80-9507-F053FF6DA2A2}
+	EndGlobalSection
+EndGlobal
